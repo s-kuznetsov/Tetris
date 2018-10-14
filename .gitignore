@@ -1,0 +1,5 @@
+.idea/
+*.iml
+target/
+/log4j-application.log
+out/
